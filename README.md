@@ -38,8 +38,8 @@ A few lessons I'm taking with me:
 
 ### Score Reports
 
-- **[Individual Game Score Report (PDF)](NCL_Fall2026_Individual_Score_Report.pdf)**
-- **[Team Game Score Report (PDF)](NCL_Fall2026_Team_Score_Report.pdf)**
+- **[Individual Game Score Report (PDF)](NCL_Fall2026_Individual_Score_Report.pdf?raw=true)**
+- **[Team Game Score Report (PDF)](NCL_Fall2026_Team_Score_Report.pdf?raw=true)**
 
 *In keeping with NCL rules, this portfolio does not include challenge-specific write-ups or solutions.*
 
