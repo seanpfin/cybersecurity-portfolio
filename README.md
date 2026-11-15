@@ -31,6 +31,7 @@ A few lessons I'm taking with me:
 
 ### Highlights
 
+- Placed in the **top third** of the Experienced Student bracket in my first NCL season — **127th of 407** individually and **74th of 290** as a team
 - Built custom **Hashcat mask attacks** and audited password hashes in my home lab with Hashcat and John the Ripper
 - Worked through **enumeration and Linux privilege escalation** problems using SMB, SSH, and `sudo` misconfigurations
 - Practiced **OSINT** research, including spotting deliberately planted misinformation
@@ -38,8 +39,19 @@ A few lessons I'm taking with me:
 
 ### Score Reports
 
-- **[Individual Game Score Report (PDF)](NCL_Fall2026_Individual_Score_Report.pdf?raw=true)**
-- **[Team Game Score Report (PDF)](NCL_Fall2026_Team_Score_Report.pdf?raw=true)**
+#### Individual Game — Rank **127 of 407** (Experienced Student Bracket)
+1,745 / 3,000 points · 87.2% accuracy · perfect module scores in Log Analysis and Forensics
+
+![NCL Fall 2026 Individual Game score report](NCL_Fall2026_Individual_Score_Report.png)
+
+[Download the full Individual Game report (PDF)](NCL_Fall2026_Individual_Score_Report.pdf?raw=true)
+
+#### Team Game — Rank **74 of 290** (Experienced Student Bracket)
+2,440 / 3,000 points · 86.9% completion · perfect module scores in Log Analysis, Forensics, and Web Application Exploitation
+
+![NCL Fall 2026 Team Game score report](NCL_Fall2026_Team_Score_Report.png)
+
+[Download the full Team Game report (PDF)](NCL_Fall2026_Team_Score_Report.pdf?raw=true)
 
 *In keeping with NCL rules, this portfolio does not include challenge-specific write-ups or solutions.*
 
