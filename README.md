@@ -40,14 +40,14 @@ A few lessons I'm taking with me:
 ### Score Reports
 
 #### Individual Game — Rank **127 of 407** (Experienced Student Bracket)
-1,745 / 3,000 points · 87.2% accuracy · perfect module scores in Log Analysis and Forensics
+1,745 / 3,000 points · 87.2% accuracy
 
 ![NCL Fall 2026 Individual Game score report](NCL_Fall2026_Individual_Score_Report.png)
 
 [Download the full Individual Game report (PDF)](NCL_Fall2026_Individual_Score_Report.pdf?raw=true)
 
 #### Team Game — Rank **74 of 290** (Experienced Student Bracket)
-2,440 / 3,000 points · 86.9% completion · perfect module scores in Log Analysis, Forensics, and Web Application Exploitation
+2,440 / 3,000 points · 86.9% completion
 
 ![NCL Fall 2026 Team Game score report](NCL_Fall2026_Team_Score_Report.png)
 
